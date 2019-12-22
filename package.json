@@ -1,0 +1,19 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anugeeth/Notes-app-nodejs.git"
+  },
+  "author": "Anugeeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anugeeth/Notes-app-nodejs/issues"
+  },
+  "homepage": "https://github.com/Anugeeth/Notes-app-nodejs#readme"
+}
