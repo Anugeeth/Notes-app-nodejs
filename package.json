@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Anugeeth/Notes-app-nodejs/issues"
   },
-  "homepage": "https://github.com/Anugeeth/Notes-app-nodejs#readme"
+  "homepage": "https://github.com/Anugeeth/Notes-app-nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
